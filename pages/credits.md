@@ -8,7 +8,7 @@
     * Replace with your description of your role in the project. 
 * [Thomas Miller](mailto:tmiller26@mail.usf.edu)
     * Placeholder
-* Faris Chaoui
+* [Faris Chaoui](mailto:fchaoui@mail.usf.edu)
     * Placeholder
 
 ---

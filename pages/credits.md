@@ -7,7 +7,7 @@
 * Michael Rappa
     * Replace with your description of your role in the project. 
 * [Thomas Miller](mailto:tmiller26@mail.usf.edu)
-    * Placeholder
+    * Placehold
 * Faris Chaoui
     * Placeholder
 
